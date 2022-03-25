@@ -17,7 +17,6 @@ class Solution(object):
             last -= 1
         return nums1  
         
-            
         # for i in range(n) :
         #     nums1[m + i] = nums2[i]
         # nums1.sort()

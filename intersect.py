@@ -7,6 +7,7 @@ class Solution(object):
                 nums1.remove(nums2[i])
         return res
 
+
 test = Solution()
 res = test.intersect([4,4,9,5], [9,4,9,8,4])
 print(res)
